@@ -1,2 +1,1 @@
-# ffar298-term-project
- 
+# FFAR 298: Art in the Anthropocene
