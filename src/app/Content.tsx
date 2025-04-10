@@ -95,23 +95,41 @@ export default function Content(){
                 </LeftColumn>
                 <RightColumn>
                     <Window shadow={false}>
-                        <WindowHeader style={{fontWeight:"normal", fontSize:"1.3rem"}}>Sample Environmental Issue</WindowHeader>
+                        <WindowHeader style={{fontWeight:"normal", fontSize:"1.3rem"}}>The Invisible Archive</WindowHeader>
                         <WindowContent>
-                        <GroupBox label="Sample Environmental Issue Clarification" disabled={false}>
+                        <GroupBox label="Ignorance for gains" disabled={false}>
                         <p style={{fontSize:"1.2rem", lineHeight:"1.2"}}>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                            Every digital interaction by man leaves some invisible trace in our physical world. Be it a carbon signature, water footprint, energy echo, these traces form an archive of human ambition, documented not in pictures or words but by an altered composition of our atmosphere and a transformed flow of life in the Holocene. This archive grows from each AI query, each new model trained, each data transfer, each resource farmed in search of further advancement. Our environment progressively becomes a living document of our digital age, written in the language of environmental change, each entry being a record of human thought and a modification of the planet's systems. This archive is invisible to ones' eye yet visible in it's consequences, a testament to man's pursuit of the Capitalocene.
                         </p>
                         </GroupBox>
                         </WindowContent>
                     </Window>
                     <Window shadow={false}>
-                        <WindowHeader style={{fontWeight:"normal", fontSize:"1.3rem"}}>Sample Environmental Issue</WindowHeader>
+                        <WindowHeader style={{fontWeight:"normal", fontSize:"1.3rem"}}>The Cumulative Moment</WindowHeader>
                         <WindowContent>
-                        <GroupBox label="Sample Environmental Issue Clarification" disabled={false}>
+                        <GroupBox label="Human desire shapes the past and future" disabled={false}>
                         <p style={{fontSize:"1.2rem", lineHeight:"1.2"}}>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                            Time collapses in the data center. A single AI operation, completed in milliseconds, draws power generated over millions of years by ancient sunlight, stored as fossil fuels. Water that fell as rain centuries ago is consumed in seconds to cool processors. The present moment becomes a compression of geological time, where the slow processes of Earth's history are accelerated into the rapid pulses of computation. Each data center is a temporal anomaly, a place where time scales from the planetary to the digital converge, creating a new kind of chronometry that measures progress not in seconds or years, but in environmental transformations.
+                        </p>
+                        </GroupBox>
+                        </WindowContent>
+                    </Window>
+                    <Window shadow={false}>
+                        <WindowHeader style={{fontWeight:"normal", fontSize:"1.3rem"}}>The Absent Presence</WindowHeader>
+                        <WindowContent>
+                        <GroupBox label="Hidden in plain sight" disabled={false}>
+                        <p style={{fontSize:"1.2rem", lineHeight:"1.2"}}>
+                            The things that power the technology we use day-by-day, the things that light our homes and cities, the things we take for granted, these power plants, server farms, water systems, all of it, they all exist in a parallel landscape hidden from most of us. We do not see the things that go into everything we rely on every day, and because of that, we lose appreciation and understanding of their impact on the environment. We form a paradox, the digital world which promises to make everything visible and accessible entirely depends on physical infrastructure that is deliberately obscured from us. The environmental impact stemming from all things related to AI exists in this space of absence, documented only through data and only experienced through it's consequences. An exhibition with no visitors, performance with no audience, a global transformation with no witnesses.
+                        </p>
+                        </GroupBox>
+                        </WindowContent>
+                    </Window>
+                    <Window shadow={false}>
+                        <WindowHeader style={{fontWeight:"normal", fontSize:"1.3rem"}}>The Ghost in the Machine</WindowHeader>
+                        <WindowContent>
+                        <GroupBox label="Poison for profit" disabled={false}>
+                        <p style={{fontSize:"1.2rem", lineHeight:"1.2"}}>
+                        AI's environmental impacts exist only in a space of absence. The ghost in the machine is not just this form of "intelligence" that we've created, but the environmental cost that we tuck away, out of sight, both incidentally and purposefully. Just like the Fukushima exclusion zone, there are spaces that we cannot, and choose not, to see. Spaces where the consequences of our capitalistic desires in pursuit of technological advancement accumulates. The heat generated by the data centers handling AI computations dissipates into the atmosphere, the water used by the cooling systems either evaporates or is not reused, the CO2 released by power generation disperses into the air, polluting our planet. These are ghosts of the digital age, invisible yet present in our every day, progressing as our desires for economic growth continue onwards in the Holocene.
                         </p>
                         </GroupBox>
                         </WindowContent>
