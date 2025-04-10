@@ -9,7 +9,10 @@ export const metadata: Metadata = {
   },
 };
 
-const handjet = VT323({weight: "400"});
+const handjet = VT323({
+  weight: "400",
+  subsets: ['latin'],
+});
 
 export default function RootLayout({
   children,
