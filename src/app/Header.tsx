@@ -15,7 +15,7 @@ export default function Header() {
     }
 
     const openDocument = () => {
-        window.open('https://docs.google.com/document/d/1lKB0K-fe2YLlo6waSIBp50W932DxQ5GpjZAop0EU1oI/edit?usp=sharing', '_blank');
+        window.open('https://docs.google.com/document/d/1JHTp58ldswOB2wkmHbPk-WTKfWroNGwxLBwuHcw4wWU/edit?usp=sharing', '_blank');
     }
     return (
         <div style={{ padding: 20 }}>

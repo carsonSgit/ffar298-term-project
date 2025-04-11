@@ -66,7 +66,7 @@ const resources = [
         name: 'Industry GPU Usage',
         value: 200,
         unit: 'TWh',
-        context: 'Equivalent to the electricity consumption of approximately 2 million homes',
+        context: 'Equivalent to the electricity consumption of approximately 18 million homes',
         impact: 'Goldman Sachs estimates that data-center power consumption for AI related operations will see an increase in 200 terawatt-hours year-by-year from 2023-2030. Doing some quick math based off of the fact that a Canadian home on average uses about 11,132.5 kWh per year, meaning the 200 TWh / 11,132.5 kWh produces an astounding number. Goldman Sachs`s estimation states that year by year, AI will require an extra 200 TWh of power that is equivalent to the energy consumption of 17.96 million Canadian homes per year.',
         source: 'Source: Goldman Sachs, 2023 - <a href="https://www.goldmansachs.com/insights/articles/AI-poised-to-drive-160-increase-in-power-demand" target="_blank" rel="noopener noreferrer">Link</a>'
     }
