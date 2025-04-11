@@ -88,16 +88,16 @@ export default function ResourceImpact() {
                         <Metric>
                             {resource.value.toLocaleString()} {resource.unit}
                         </Metric>
-                        <div style={{ fontSize: '0.9rem', color: '#444' }}>
+                        <div style={{ fontSize: '1.1rem', color: '#444' }}>
                             {resource.context}
                         </div>
                     </ResourceItem>
                 ))}
             </Grid>
             <InfoPanel>
-                <strong>{selectedResource.name} Impact:</strong>
-                <p style={{ margin: '0.5rem 0' }}>{selectedResource.impact}</p>
-                <span style={{ fontSize: '0.8rem', color: '#666' }} 
+                <strong style={{ fontSize: '1.1rem'}}>{selectedResource.name} Impact:</strong>
+                <p style={{ margin: '0.5rem 0', fontSize: '1.05rem'}}>{selectedResource.impact}</p>
+                <span style={{ fontSize: '0.9rem', color: '#666' }} 
                     dangerouslySetInnerHTML={{ __html: selectedResource.source }}>
                 </span>
             </InfoPanel>
